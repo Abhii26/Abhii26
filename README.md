@@ -1,18 +1,61 @@
-# 💫 About Me:
-I'm currently a fresher and looking for a role as a Software Engineer or Backend Developer.<br>I build things. Sometimes those things are complex automation systems, sometimes they're ideas I'm still trying to articulate.<br>What's consistent is that I'm obsessed with understanding how technology actually works—not just how it's marketed.
+<picture>
+  <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/hero-mobile-static.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.png">
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile.gif">
+  <img src="assets/hero.gif" width="1120" alt="Abhishek Tiwari — Python Developer, Computer Vision and On-Device ML">
+</picture>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishektiwari6/"><img src="assets/linkedin.svg" width="148" alt="Connect with Abhishek on LinkedIn"></a>
+  <a href="mailto:abhishektiwari7065@gmail.com"><img src="assets/email.svg" width="148" alt="Email Abhishek"></a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishektiwari6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishektiwari7065@gmail.com) 
+I build **Python backends, computer vision systems, and ML applications that run on device**. My work connects recognition pipelines, mobile apps, and the APIs behind them.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhii26&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abhii26&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhii26&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm an **Associate Python Developer at Techkshetra Info Solutions**, based in Bengaluru, India. Interested in Python backend, computer vision, and edge AI opportunities.
 
----
-[![](https://visitcount.itsvg.in/api?id=Abhii26&icon=0&color=0)](https://visitcount.itsvg.in)
+## Engineering in practice
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/impact-mobile.svg">
+  <img src="assets/impact.svg" width="1120" alt="Professional work: reduced group-photo processing from 210 to 150 seconds, measured selfie recognition under 3 seconds, and built batched inference across three RTSP feeds on Jetson Orin.">
+</picture>
+
+These measurements come from my professional work and its test conditions. [Read the engineering context](projects/engineering-notes.md).
+
+## Selected projects
+
+<a href="projects/faceauth.md"><picture><source media="(max-width: 600px)" srcset="assets/faceauth-mobile.svg"><img src="assets/faceauth.svg" width="1120" alt="FaceAuth — offline face enrollment and authentication with Flutter, Dart and SQLite. Read project notes."></picture></a>
+
+Offline embeddings, passive anti-spoofing, multi-frame liveness checks, and best-frame selection. **[Project notes](projects/faceauth.md)** · Public source link to be added when available.
+
+<a href="https://github.com/Abhii26/Face_Recognition"><picture><source media="(max-width: 600px)" srcset="assets/facialytics-mobile.svg"><img src="assets/facialytics.svg" width="1120" alt="Facialytics — webcam face recognition using Node.js, Express and face-api.js. View source."></picture></a>
+
+Face matching, expression detection, age and gender estimation, with local HTTPS for webcam access. **[Source](https://github.com/Abhii26/Face_Recognition)**
+
+<a href="https://github.com/Abhii26/Shortifly"><picture><source media="(max-width: 600px)" srcset="assets/shortifly-mobile.svg"><img src="assets/shortifly.svg" width="1120" alt="Shortifly — URL shortening and click analytics with Node.js, Express and MongoDB. View source."></picture></a>
+
+Short links, click counts, and timestamped visit records. **[Source](https://github.com/Abhii26/Shortifly)**
+
+## Tools I work with
+
+**Core:** Python · Dart · JavaScript · SQL  
+**Vision:** OpenCV · InsightFace · ArcFace · SCRFD · YOLOv8 · FAISS · DeepSORT  
+**Inference:** ONNX Runtime · TensorRT · GStreamer · SAHI · Batched inference  
+**Apps & APIs:** FastAPI · Flutter · Flask · Node.js · Express · REST · Socket.io  
+**Data & tools:** SQLite · MySQL · PostgreSQL · MongoDB · Git · Linux · Postman
+
+<details>
+<summary><strong>A little more about my background</strong></summary>
+
+- Associate Python Developer, Techkshetra Info Solutions — June 2026–present.
+- Python Developer Intern, Techkshetra Info Solutions — March–May 2026.
+- Backend Developer Intern, E-Definers Technology — January–April 2025.
+- B.Tech in Information Technology, GGSIPU — graduated July 2025; CGPA 8.91/10.
+- Built REST APIs, offline attendance workflows, and detection/re-identification pipelines on Jetson Orin.
+
+</details>
+
+## Let's connect
+
+For Python backend, computer vision, or on-device ML conversations: **[LinkedIn](https://www.linkedin.com/in/abhishektiwari6/)** · **[Email](mailto:abhishektiwari7065@gmail.com)**.
